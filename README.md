@@ -11,12 +11,12 @@ When connecting DBpedia to the Timbr platform, users can then:
 * Integrate DBpedia with existing data-sources
 
 ### The Timbr-DBpedia Ontology
-Timbr’s Ontology Modeler provides a visual interface and a SQL DDL editor to easily model concepts and properties that represent the business or use-case.
+Timbr’s Ontology Modeler provides a visual interface to easily model concepts, properties, and relationships.
 
 ![DBpedia Ontology](DBpedia_Ontology.png)
 
 ### The Timbr-DBpedia Semantic Web Stack
-Timbr-DBpedia supports RDF/RDFS/OWL ontologies via its virtual SQL compiler which fulfills the Semantic Web stack.
+Timbr-DBpedia supports RDFS/OWL ontologies via its virtual SQL compiler which fulfills the Semantic Web stack.
 
 ![DBpedia Semantic Web Stack](DBpedia_Semantic_Web_Stack.png)
 
